@@ -1,11 +1,5 @@
 ## Overview
-Repository creates for fast running development process with configuration, which are the same from project to project.
-
-## Building
-...
-
-## Troubleshooting
-...
+Решение задач по теме Stream API. Потоки, повторные вызовы, основные методы
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
